@@ -1,5 +1,3 @@
-Earth Scientist
-Pacific Northwest National Laboratory
+Scientist, [Pacific Northwest National Laboratory](https://www.pnnl.gov/)
 
-[Hopme Page](https://hetland.github.io/)
-[Google Scholar](https://scholar.google.com/citations?user=THFG9TgAAAAJ)
+[Home Page](https://hetland.github.io/)  –  [Google Scholar](https://scholar.google.com/citations?user=THFG9TgAAAAJ)
